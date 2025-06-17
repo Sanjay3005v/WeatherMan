@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "3994000000064001",
+      "name": "weatherman",
+      "domain": {
+        "id": "50021764022",
+        "name": "weatherman-60028305809.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60028305809",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
